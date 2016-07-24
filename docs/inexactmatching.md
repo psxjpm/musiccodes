@@ -38,7 +38,7 @@ The timed phrase will match the following patterns:
 
 With inexact matching muzicodes works out how many changes it would have to make to convert the played sequence to the pattern sequence, or equivalently how many mistakes would have had to be made if the played sequence had been meant to be the pattern.
 
-### inexact matching of notes
+### inexact matching of notes (revised)
 
 For example, the following patterns might have been what the person intended to trigger with the untimed phrase:
 
